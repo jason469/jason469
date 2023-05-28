@@ -20,5 +20,5 @@ I've also worked with a variety of clients and projects in the past and understa
 </p>
 
 ## <img src="[https://github.com/jason469/jason469/assets/75589970/55d3e568-de58-4405-8138-e1281e07d8b8](https://github.com/jason469/jason469/assets/75589970/356a806b-2b9a-4aca-b7ae-8239d9293b3d)" width="25" height="25"/>  Let's Connect!
-<img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="25" height="auto" align="center" />[Website](https://jasonliu.onrender.com/) <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center"/>[Linkedin](https://www.linkedin.com/in/jasonliudev/)
+<img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="25" height="auto" align="center" style="padding-right: 5px"/>[Website](https://jasonliu.onrender.com/) <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/>[Linkedin](https://www.linkedin.com/in/jasonliudev/)
