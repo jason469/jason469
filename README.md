@@ -10,7 +10,7 @@ I've also worked with a variety of clients and projects in the past and understa
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason469&theme=rose_pine&layout=donut" alt="stats" width="450" height="auto" align=right />
 
-## <img src="https://github.com/jason469/jason469/assets/75589970/55d3e568-de58-4405-8138-e1281e07d8b8" width="25" height="25"/>  Languages and Technologies
+## <img src="./assets/technology.png" width="25" height="25"/>  Languages and Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
@@ -26,8 +26,8 @@ I've also worked with a variety of clients and projects in the past and understa
 </div>
 <br/>
 
-## <img src="./connect-icon.png" width="25" height="25"/>  Let's Connect!
-<img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="20" height="auto" align="center"/> [Website](https://jasonliu.onrender.com/) <br>
+## <img src="./assets/connect.png" width="25" height="25"/>  Let's Connect!
+<img src="./assets/website.png" alt="Personal Website" width="20" height="auto" align="center"/> [Website](https://jasonliu.onrender.com/) <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/> [Linkedin](https://www.linkedin.com/in/jasonliudev/)
 <br/><br/>
 
