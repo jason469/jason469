@@ -1,11 +1,16 @@
 # Hi there! My name's [Jason](https://jasonliu.onrender.com/) 👋
 
+- Software Developer since 2021
+- Strong focus on application development and DevOps
+- Currently situated in New Zealand
+- Love to cook, code, climb and play guitar
+
 With a strong technical foundation in software development (focusing on app and web development), I'm a very flexible and self-motivating professional in the world of software engineering. I fully understand the value of self-learning and staying up to date with the newest standards, and always push myself to build new skills, whether that be in app development, Machine Learning or DevOps. 
 I've also worked with a variety of clients and projects in the past and understand the value of proper documentation and communication, leveraging existing tools to assist that, such as Github, Microsoft Office, Canva, Trello and even Docker. 
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason469&theme=rose_pine&layout=donut" alt="stats" width="450" height="auto" align=right />
 
 ## <img src="https://github.com/jason469/jason469/assets/75589970/55d3e568-de58-4405-8138-e1281e07d8b8" width="25" height="25"/>  Languages and Technologies
-<img src="https://github.com/jason469/jason469/assets/75589970/3c49b503-9347-4c57-8ab4-19b5586d7465" alt="image" align="right">
-
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
@@ -19,7 +24,13 @@ I've also worked with a variety of clients and projects in the past and understa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" />
 </div>
+<br/>
 
-## <img src="[https://github.com/jason469/jason469/assets/75589970/55d3e568-de58-4405-8138-e1281e07d8b8](https://github.com/jason469/jason469/assets/75589970/356a806b-2b9a-4aca-b7ae-8239d9293b3d)" width="25" height="25"/>  Let's Connect!
-<img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="25" height="auto" align="center" style="padding-right: 5px"/>[Website](https://jasonliu.onrender.com/) <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/>[Linkedin](https://www.linkedin.com/in/jasonliudev/)
+## <img src="https://github.com/jason469/jason469/assets/75589970/bcce925f-cf1b-42ee-9d51-f744184c57d4" width="25" height="25"/>  Let's Connect!
+<img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="20" height="auto" align="center"/> [Website](https://jasonliu.onrender.com/) <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/> [Linkedin](https://www.linkedin.com/in/jasonliudev/)
+<br/><br/>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jason469&theme=highcontrast&mode=weekly" width="500" height="auto" align="middle" /> 
+<p/>
