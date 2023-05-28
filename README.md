@@ -26,7 +26,7 @@ I've also worked with a variety of clients and projects in the past and understa
 </div>
 <br/>
 
-## <img src="https://github.com/jason469/jason469/assets/75589970/bcce925f-cf1b-42ee-9d51-f744184c57d4" width="25" height="25"/>  Let's Connect!
+## <img src="./connect-icon.png" width="25" height="25"/>  Let's Connect!
 <img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="20" height="auto" align="center"/> [Website](https://jasonliu.onrender.com/) <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/> [Linkedin](https://www.linkedin.com/in/jasonliudev/)
 <br/><br/>
