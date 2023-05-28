@@ -4,8 +4,8 @@ With a strong technical foundation in software development (focusing on app and 
 I've also worked with a variety of clients and projects in the past and understand the value of proper documentation and communication, leveraging existing tools to assist that, such as Github, Microsoft Office, Canva, Trello and even Docker. 
 
 ## <img src="https://github.com/jason469/jason469/assets/75589970/55d3e568-de58-4405-8138-e1281e07d8b8" width="25" height="25"/>  Languages and Technologies
-<div style="display: flex">
-<div>
+<img src="https://github.com/jason469/jason469/assets/75589970/3c49b503-9347-4c57-8ab4-19b5586d7465" alt="image" align="right">
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
@@ -23,6 +23,3 @@ I've also worked with a variety of clients and projects in the past and understa
 ## <img src="[https://github.com/jason469/jason469/assets/75589970/55d3e568-de58-4405-8138-e1281e07d8b8](https://github.com/jason469/jason469/assets/75589970/356a806b-2b9a-4aca-b7ae-8239d9293b3d)" width="25" height="25"/>  Let's Connect!
 <img src="https://github.com/jason469/jason469/assets/75589970/fbb16207-21b9-4a04-af7a-15dc0ebb2ef9" alt="Personal Website" width="25" height="auto" align="center" style="padding-right: 5px"/>[Website](https://jasonliu.onrender.com/) <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/>[Linkedin](https://www.linkedin.com/in/jasonliudev/)
-</div>
-<img src="https://github.com/jason469/jason469/assets/75589970/3c49b503-9347-4c57-8ab4-19b5586d7465" alt="image">
-</div>
