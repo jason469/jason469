@@ -28,7 +28,8 @@ I've also worked with a variety of clients and projects in the past and understa
 
 ## <img src="./assets/connect.png" width="25" height="25"/>  Let's Connect!
 <img src="./assets/website.png" alt="Personal Website" width="20" height="auto" align="center"/> [Website](https://jasonliu.onrender.com/) <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/> [Linkedin](https://www.linkedin.com/in/jasonliudev/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="20" height="auto" align="center" style="padding-right: 5px"/> [Linkedin](https://www.linkedin.com/in/jasonliudev/)<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Personal Website" width="20" height="auto" align="center"/> [Personal Projects](https://github.com/stars/jason469/lists/personal-projects) <br>
 <br/><br/>
 
 <p align="center">
