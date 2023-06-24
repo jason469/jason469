@@ -5,7 +5,7 @@
 - Currently situated in New Zealand
 - Love to cook, code, climb and play guitar
 
-With a strong technical foundation in software development (focusing on app and web development), I'm a very flexible and self-motivating professional in the world of software engineering. I fully understand the value of self-learning and staying up to date with the newest standards, and always push myself to build new skills, whether that be in app development, Machine Learning or DevOps. <br>
+With a strong technical foundation in software development (focusing on app and web development), I'm a very flexible and self-motivating professional in the world of software engineering. I fully understand the value of self-learning and staying up to date with the newest standards, and always push myself to build new skills, whether that be in app development, Machine Learning or DevOps. <br><br>
 I've also worked with a variety of clients and projects in the past and understand the value of proper documentation and communication, leveraging existing tools to assist that, such as Github, Microsoft Office, Canva, Trello and Docker. 
 <br><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason469&theme=rose_pine&layout=donut" alt="stats" width="450" height="auto" align=right />
