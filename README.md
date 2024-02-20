@@ -2,7 +2,6 @@
 
 - Software Developer since 2021
 - Strong focus on application development and DevOps
-- Currently situated in New Zealand
 - Love to cook, code, climb and play guitar
 
 With a strong technical foundation in software development (focusing on app and web development), I'm a very flexible and self-motivating professional in the world of software engineering. I fully understand the value of self-learning and staying up to date with the newest standards, and always push myself to build new skills, whether that be in app development, Machine Learning or DevOps. <br><br>
